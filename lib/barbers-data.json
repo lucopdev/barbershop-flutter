@@ -1,0 +1,28 @@
+{
+  "barbers": [
+    {
+      "name": "Jason Momoa",
+      "birthYear": 1995,
+      "gender": "male",
+      "hability": "Corte Degradê",
+      "disponibility": true,
+      "imageUrl": ""
+    },
+    {
+      "name": "Martin Scorcese",
+      "birthYear": 1988,
+      "gender": "male",
+      "hability": "Platinados, mechas, quimicos",
+      "disponibility": true,
+      "imageUrl": ""
+    },
+    {
+      "name": "Jodie Foster",
+      "birthYear": 1991,
+      "gender": "female",
+      "hability": "Penteados afro",
+      "disponibility": true,
+      "imageUrl": ""
+    }
+  ]
+}
